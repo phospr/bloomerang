@@ -1,2 +1,5 @@
-# bloomerang
-A PHP library to connect to the Bloomerang API
+# Phospr Bloomerang
+
+A PHP client for Bloomerang API.
+
+Please do not use this library in production.
